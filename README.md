@@ -1,6 +1,6 @@
 # aprendaingles
 
-A new Flutter application.
+Aplicativos para fins pedagogicos utilizando flutter e package para reprodução de audios, o aplicativo apresenta imagens e ao clicar nelas é reproduzido o audio com o nome do objeto em inglês.
 
 ## Getting Started
 
