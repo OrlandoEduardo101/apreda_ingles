@@ -2,6 +2,11 @@
 
 Aplicativos para fins pedagogicos utilizando flutter e package para reprodução de audios, o aplicativo apresenta imagens e ao clicar nelas é reproduzido o audio com o nome do objeto em inglês.
 
+# ScreenShot
+
+![screenshot](https://github.com/OrlandoEduardo101/aprenda_ingles/blob/master/screenshot-2020-06-15_19.23.59.431.png?raw=true)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
